@@ -3,9 +3,8 @@
 # Calculator app with react native, The aim for this project was to understand react native basics such as , Props, State, and UI layout
 
 # What i learn 
--) React props 
-
--) State in react 
+- React props 
+- Handling State in react 
 
 -) React components how to create components in react
 -) Styling the user interface 
