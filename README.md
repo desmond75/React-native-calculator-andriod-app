@@ -4,7 +4,9 @@
 
 # What i learn 
 -) React props 
+
 -) State in react 
+
 -) React components how to create components in react
 -) Styling the user interface 
 -) Using flex box and positioning components at specific areas on the screen 
