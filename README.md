@@ -16,3 +16,6 @@
 - Understanding destructuring in ES6
 - How to use the react TouchableHightlight and TouchableOpacity components 
 - Inatalling and setting up expo CLI for live test
+
+![Screenshot_2019-02-28-19-05-47](https://user-images.githubusercontent.com/27916806/57194295-78b40100-6f45-11e9-9053-2eebf8da755f.png)
+
